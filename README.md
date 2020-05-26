@@ -1,13 +1,15 @@
 # Practica de Salud
 
-ELBIS GONZALO MAMANI CASPA
-CI 7048585 LP 
-RU 200009254
+#ELBIS GONZALO MAMANI CASPA
+#CI 7048585 LP 
+#RU 200009254
 
 
-PRACTICA N° 4
+#PRACTICA N° 4
+#MYSQL bd_salud
 
-MYSQL PARA bd_salud
+#Un blog es un sitio web con formato de bitácora o diario personal. Los contenidos suelen actualizarse de manera frecuente y exhibirse en orden cronológico (de más a menos reciente). Los lectores, por su parte, suelen tener la posibilidad de realizar comentarios sobre lo publicado.
+
 
 mysql -uroot -p
 
