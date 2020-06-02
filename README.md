@@ -10,14 +10,14 @@
 
 ![](imganes/parte1.png)
 
-#También, una interfaz para desplegar post y las operaciones de Nuevo, Editar y eliminar post:
+# También, una interfaz para desplegar post y las operaciones de Nuevo, Editar y eliminar post:
 
 ![](imganes/parte2.png)
 
-#Asi mismo, para el funcionamiento de la aplicación debe considerar
-#1. Creación de base de datos y las tablas necesarias para e proyecto
-#2. Mecanismo de conexión de la base de datos
-#3. Moddelo, Vistas y Controladores para el funcionamiento del proyecto.
+# Asi mismo, para el funcionamiento de la aplicación debe considerar
+# 1. Creación de base de datos y las tablas necesarias para e proyecto
+# 2. Mecanismo de conexión de la base de datos
+# 3. Moddelo, Vistas y Controladores para el funcionamiento del proyecto.
 
 ![](imganes/parte3.png)
 
