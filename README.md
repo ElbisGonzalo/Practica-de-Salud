@@ -1,8 +1,7 @@
 # PRACTICA NRO 4
 
-# ELBIS GONZALO MAMANI CASPA
-# CI 7048585 LP 
-# RU 200009254
+# NOMBRE: ELBIS GONZALO MAMANI CASPA
+# CI: 7048585 LP 
 
 # MYSQL bd_salud
 # Un blog es un sitio web en el que se va publicando contenido cada cierto tiempo en forma de articulos(también llamados posts) ordenados por fecha de publicación, asi el artículo mas reciente aparecerá primero.
